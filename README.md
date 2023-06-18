@@ -1,4 +1,11 @@
-#Project 6 - Sorted Input (Project 4 and Project 5)
+## Contents
+- [Introduction](#introduction)
+- [Installation](#Running-the-program)
+- [Details](#technical-details)
+- [Example](#example)
+- [Contributing](#contribute)
+- [Author](#Created-by)
+
 
 ## Introduction
 
@@ -39,7 +46,7 @@ Project5 uses the same, except Stack in place of LinkedList
 ### Project4 Comments, mistakes
 Project 4 comments mistakenly referred to classes by an earlier version's names.  These were kept to preserve the project as-is when submitted for Week 4. Corrected class names were used for Project 5. 
 
-## Usage
+## Example
 
 The user is prompted to enter a comma-separated list into the command line upon running Main.java (Project5 in this example).
 
@@ -64,6 +71,11 @@ Currently Stored Stack: [-1, 2, 3, 11]
 ```
 
 Project4 interaction is identical except user will be met with messages regarding "Linked List" in place of "Stack".
+
+## Contribute
+
+This project uses an MIT License.  Feel free to fix bugs, contribute, or alter it in any way. 
+Any changes to this repo will be reviewed and may be altered. Try to keep any changes consistent with SOLID principles.  
 
 ## Created by
 
