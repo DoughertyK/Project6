@@ -40,8 +40,8 @@ Both project4 and project5 attempt to adhere to SOLID principles.  There are 5 c
 Main class uses Operator to access Reader to read user input, and Sorter to sort the numbers then add them to the data structure (Linked List in project4, Stack in project5). Then Prints the results using Printer. Main class prompts user to enter a comma-separated list of integers. Reader parses the input. Converter converts the parsed input into the appropriate data structure. Sorter sorts the data structure. Then the sorted data structure is printed to the console for confirmation using Printer.
 
 ### Dependencies
-Project4 uses LinkedList, Collections, ArrayList, and Scanner
-Project5 uses the same, except Stack in place of LinkedList
+Project4 uses standard Java libraries: Collections, LinkedList, ArrayList, and Scanner
+Project5 uses the same, except Stack in place of LinkedList.
 
 ### Project4 Comments, mistakes
 Project 4 comments mistakenly referred to classes by an earlier version's names.  These were kept to preserve the project as-is when submitted for Week 4. Corrected class names were used for Project 5. 
