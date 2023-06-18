@@ -4,6 +4,28 @@
 
 Project4 and Project5 from CSC6301 are Java programs that accept, process, and sort integers provided by a user. Project4 uses a Linked List to store the items, and Project5 uses a Stack.
 
+## Running the Program
+
+1. Clone the repository:
+
+```bash
+ git clone https://github.com/DoughertyK/Project6.git
+ ```
+   
+2. Compile:
+
+```bash
+cd Project6
+javac project4/*.java
+```
+Note: to run project5, substitute project4 with project5.
+
+3. Run:
+
+```bash
+java project4.Main
+```
+
 ## Technical Details
 
 Both project4 and project5 attempt to adhere to SOLID principles.  There are 5 classes other than Main: Reader, Operator, Printer, Sorter, and Converter.  
