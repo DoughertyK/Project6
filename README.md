@@ -32,7 +32,7 @@ Note: to run project5, substitute project4 with project5.
 ```bash
 java project4.Main
 ```
-
+Note: to run project5, substitute project4 with project5.
 ## Technical Details
 
 Both project4 and project5 attempt to adhere to SOLID principles.  There are 5 classes other than Main: Reader, Operator, Printer, Sorter, and Converter.  
