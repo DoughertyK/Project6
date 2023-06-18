@@ -9,7 +9,7 @@
 
 ## Introduction
 
-Project4 and Project5 from CSC6301 are Java programs that accept, process, and sort integers provided by a user. Project4 uses a Linked List to store the items, and Project5 uses a Stack.
+Project4 and Project5 from CSC6301 are Java programs that accept, process, and sort integers provided by a user into a data structure. Project4 uses a Linked List to store the items, and Project5 uses a Stack.
 
 ## Running the Program
 
